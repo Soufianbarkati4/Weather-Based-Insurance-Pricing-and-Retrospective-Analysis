@@ -33,6 +33,7 @@ Calculation: The app fetches real-time rainfall data, calculates the daily premi
 Data Collection: Uses historical precipitation data to simulate the impact on revenue with and without insurance.
 
 Visualization: Provides line charts showing annual turnover and benefits/losses for easy comparison.
+
   3. Data Visualizations
   
 Annual turnover comparison (insured vs. non-insured).
