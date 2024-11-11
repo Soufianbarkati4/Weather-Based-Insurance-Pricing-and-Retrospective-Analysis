@@ -2,10 +2,10 @@
 ActuarIA SOFTWARE Weather-Based Insurance Pricing and Retrospective Analysis
 
 *Project Overview :*
-This Django-based project enables insurance providers to offer tailored meteorological insurance, factoring in rainfall data to assess and calculate premiums. The application allows users to simulate their potential gains or losses with and without insurance across past years, based on historical precipitation data retrieved from Infoclimat. Key features include personalized quotes and retrospective analysis with visualizations, making it a valuable tool for weather risk management in business.
+  This Django-based project enables insurance providers to offer tailored meteorological insurance, factoring in rainfall data to assess and calculate premiums. The application allows users to simulate their potential gains or losses with and without insurance across past years, based on historical precipitation data retrieved from Infoclimat. Key features include personalized quotes and retrospective analysis with visualizations, making it a valuable tool for weather risk management in business.
 
 *Features :*
-Real-Time Insurance Quote Generation: Calculates premiums based on chosen parameters such as daily turnover, rainfall thresholds, and location.
+  Real-Time Insurance Quote Generation: Calculates premiums based on chosen parameters such as daily turnover, rainfall thresholds, and location.
 Historical Retrospective Analysis: Compares annual gains/losses for users with and without insurance using historical data.
 Data Visualization: Graphical representation of annual turnover with insurance, without insurance, and cumulative benefits/losses.
 *Project Structure :*
